@@ -1,0 +1,35 @@
+A1:assets/tileTextures/grass.png
+B1:assets/tileTextures/riverBorderLeft.png
+B2:assets/tileTextures/riverCenter.png
+B3:assets/tileTextures/riverBorderRight.png
+C1:assets/tileTextures/rightBridge.png
+C2:assets/tileTextures/leftBridge.png
+D1:assets/tileTextures/dirtPathWestEast.png
+D2:assets/tileTextures/dirtPathNorthSouth.png
+D3:assets/tileTextures/dirtPathNorthEast.png
+D4:assets/tileTextures/dirtPathWestSouthEast.png
+D5:assets/tileTextures/dirtPathNorthWest.png
+D6:assets/tileTextures/dirtPathSouthEast.png
+D7:assets/tileTextures/dirtPathNorthWestEast.png
+stop
+A1 A1 A1 A1 B1 B2 B2 B3 A1 A1 A1 A1 A1 A1 A1 A1 A1 A1 A1 A1
+A1 A1 A1 A1 B1 B2 B2 B3 A1 A1 A1 A1 A1 A1 A1 A1 A1 A1 A1 A1
+A1 A1 A1 D2 B1 B2 B2 B3 A1 A1 A1 A1 A1 A1 D2 A1 A1 A1 A1 A1
+A1 A1 A1 D2 B1 B2 B2 B3 A1 A1 A1 A1 A1 A1 D2 A1 A1 A1 A1 A1
+A1 A1 A1 D2 B1 B2 B2 B3 A1 A1 A1 A1 A1 A1 D2 A1 A1 A1 A1 A1
+A1 A1 A1 D2 B1 C2 C1 B3 A1 A1 A1 A1 A1 A1 D2 A1 A1 A1 A1 A1
+A1 A1 A1 D3 D1 C2 C1 D1 D1 D1 D1 D1 D1 D1 D7 D4 D1 D1 D1 D1
+A1 A1 A1 A1 B1 C2 C1 B3 A1 A1 A1 A1 A1 A1 A1 D2 A1 A1 A1 A1
+A1 A1 A1 A1 B1 B2 B2 B3 A1 A1 A1 A1 A1 A1 A1 D2 A1 A1 A1 A1
+A1 A1 A1 A1 B1 B2 B2 B3 A1 A1 A1 A1 A1 A1 A1 D2 A1 A1 A1 A1
+A1 A1 A1 A1 B1 B2 B2 B3 A1 A1 A1 A1 A1 A1 A1 D2 A1 A1 A1 A1
+A1 A1 A1 A1 B1 B2 B2 B3 A1 A1 A1 A1 A1 A1 A1 D2 A1 A1 A1 A1
+A1 A1 A1 A1 B1 C2 C1 B3 A1 A1 A1 A1 A1 A1 D6 D5 A1 A1 A1 A1
+A1 A1 A1 A1 B1 C2 C1 B3 A1 A1 A1 A1 A1 A1 D2 A1 A1 A1 A1 A1
+A1 A1 A1 A1 B1 C2 C1 B3 A1 A1 A1 A1 A1 A1 D2 A1 A1 A1 A1 A1
+A1 A1 A1 A1 B1 B2 B2 B3 A1 A1 A1 A1 D1 D1 D5 A1 A1 A1 A1 A1
+A1 A1 A1 A1 B1 B2 B2 B3 A1 A1 A1 A1 A1 A1 A1 A1 A1 A1 A1 A1
+A1 A1 A1 A1 B1 B2 B2 B3 A1 A1 A1 A1 A1 A1 A1 A1 A1 A1 A1 A1
+A1 A1 A1 A1 B1 B2 B2 B3 A1 A1 A1 A1 A1 A1 A1 A1 A1 A1 A1 A1
+A1 A1 A1 A1 B1 B2 B2 B3 A1 A1 A1 A1 A1 A1 A1 A1 A1 A1 A1 A1
+

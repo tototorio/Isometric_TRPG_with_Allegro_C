@@ -1,0 +1,2 @@
+name=adventurer;numFrames=4
+name=soldier;numFrames=1

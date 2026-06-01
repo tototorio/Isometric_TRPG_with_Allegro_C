@@ -1,0 +1,8 @@
+type=I1
+name=chest
+atkMod=0
+rangeMod=2
+staMod=0
+spdMod=0
+HPMod=0
+MPMod=0

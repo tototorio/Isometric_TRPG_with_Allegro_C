@@ -1,0 +1,11 @@
+A1:assets/objects/small_house.png
+A2:assets/objects/small_hut.png
+A3:assets/objects/medium_house.png
+A4:assets/objects/fish_cutting_station.png
+A5:assets/objects/big_house.png
+A6:assets/objects/crops.png
+B1:assets/objects/small_tree.png
+B2:assets/objects/big_tree.png
+B3:assets/objects/tree_house.png
+I1:assets/objects/closed_chest.png
+D1:assets/objects/rock.png
